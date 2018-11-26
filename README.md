@@ -7,7 +7,7 @@ is using three "pillars" working together:
 
 - Manipulating the DOM
 - ☑ Recognizing JavaScript events
-- Communicate with the server
+- Communicating with the server
 
 Now you've conquered this section, you've learned all the fundamentals of the
 second pillar, recognizing JavaScript events. You used JavaScript events to
