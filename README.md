@@ -1,4 +1,4 @@
-# You're a JavaScript Eventing Master
+# You're an Eventing Master Now!
 
 ## Reflect
 
@@ -9,8 +9,8 @@ is using three "pillars" working together:
 - ☑ Recognizing JavaScript events
 - Communicating with the server
 
-Now you've conquered this section, you've learned all the fundamentals of the
-second pillar, recognizing JavaScript events. You used JavaScript events to
+Now that you've conquered this section, you've learned all the fundamentals of 
+the second pillar, recognizing JavaScript events. You used JavaScript events to
 invoke actions, created JavaScript functions and implemented event listeners.
 
 ## Next Step
