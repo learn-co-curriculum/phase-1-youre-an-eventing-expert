@@ -9,7 +9,7 @@ is using three "pillars" working together:
 - ☑ Recognizing JavaScript events
 - Communicating with the server
 
-Now that you've conquered this section, you've learned all the fundamentals of 
+Now that you've conquered this section, you've learned all the fundamentals of
 the second pillar, recognizing JavaScript events. You used JavaScript events to
 invoke actions, created JavaScript functions and implemented event listeners.
 
